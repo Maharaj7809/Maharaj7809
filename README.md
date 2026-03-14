@@ -8,7 +8,7 @@ I am a passionate software engineer focused on building scalable backend systems
 
 ## 🚀 About Me
 
-- 🌏 Working as ** Software Engineer at TechMatrix Corporation, Japan**
+- ** Software Engineer at TechMatrix Corporation, Japan**
 
 ---
 
