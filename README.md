@@ -9,12 +9,6 @@ I am a passionate software engineer focused on building scalable backend systems
 ## 🚀 About Me
 
 - 🌏 Working as ** Software Engineer at TechMatrix Corporation, Japan**
-- 🧠 AI/ML enthusiast with interest in intelligent automation systems
-- 🏆 **Google Summer of Code Contributor**
-- 💡 Participant in **Smart India Hackathon**
-- 🚀 Experienced in building **real-time, scalable applications**
-- 🇯🇵 Interested in Japanese technology, innovation, and culture
-- 📈 Built systems improving operational efficiency by **30–40%**
 
 ---
 
@@ -34,30 +28,3 @@ MongoDB • SQL • Cassandra • Redis
 
 ### DevOps & Tools
 Docker • Kubernetes • AWS • Kafka • Spark • Git • Firebase • Gradle
-
-### Core Concepts
-Data Structures & Algorithms  
-Distributed Systems  
-System Design  
-Operating Systems  
-Design Patterns
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenMaharaj&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenMaharaj&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-LinkedIn  
-Email  
-
----
-
-⭐ Building intelligent systems that solve real-world problems.
